@@ -1,4 +1,4 @@
-# Opencv-FaceRecognition
+# OpenCV-FaceRecognition
 ## Python' da opencv kütüphanesi kullanarak yüz tanıma.
 
 Visual Code kullanarak yapıldı.
