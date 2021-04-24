@@ -3,7 +3,7 @@
 
 Visual Code kullanarak yapıldı.
 
-Adım adım Opencv kütüphanesini keşfetmeye başladım güzel uygulamalar yapmayı planlıyorum.
+Adım adım Opencv kütüphanesini keşfetmeye başladım güzel uygulamalar yapmayı planlıyorum 😊
 
 Repoyu çalıştırmak için opencv kütüphanesini bilgisayarınıza kurun.
 
