@@ -14,7 +14,7 @@ Repoyu çalıştırmak için opencv kütüphanesini bilgisayarınıza kurun.
 - [ ] Opencv project
 
 
-![ekran](https://user-images.githubusercontent.com/32196738/115963329-8c3c4600-a527-11eb-984b-6aaaab1224b0.PNG)
+![ekran](https://user-images.githubusercontent.com/32196738/115963604-b5110b00-a528-11eb-8aa6-756f23271535.PNG)
 
 
 **Developed by Fatih**
