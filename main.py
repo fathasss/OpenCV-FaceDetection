@@ -5,7 +5,7 @@ import cv2 as opencv
 #%%
 #Application
 faceCascade = opencv.CascadeClassifier(
-    r"classifier/haarcascade_eye_tree_eyeglasses.xml")
+    r"classifier/haarcascade_frontalface_default.xml")
 #Algılanacak öğeye göre xml dosyasının seçimi.
 
 img = opencv.imread(r"images/IMG_20210409_160525.png")
