@@ -1,5 +1,5 @@
 # OpenCV-FaceDetection
-## Python' da opencv kütüphanesi kullanarak yüz tanıma.
+## Python' da opencv kütüphanesi kullanarak yüz algılama.
 
 Visual Code kullanarak yapıldı.
 
